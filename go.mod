@@ -1,4 +1,4 @@
-module github.com/BatuhanSerin/books
+module github.com/BatuhanSerin/postgresql
 
 go 1.17
 
